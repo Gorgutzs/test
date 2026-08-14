@@ -1,0 +1,32 @@
+a
+{
+   text-decoration: none;
+   color: black; 
+
+}
+
+p{ 
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+body
+{
+    background: rgb(206, 204, 204) !important;
+    margin: auto;
+}
+
+.card {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+}
+.navbar {
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+    padding-left: 20px;
+    padding-right: 20px;
+}

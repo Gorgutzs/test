@@ -1,4 +1,4 @@
-<footer class="text-center mt-5">
+<footer class="text-center bg-secondary">
 
 <hr>
 <p> Test</p>
