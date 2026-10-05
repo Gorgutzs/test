@@ -1,0 +1,52 @@
+a
+{
+   text-decoration: none;
+   color: black; 
+
+}
+
+p{ 
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+body
+{
+    background-color: rgb(147, 143, 143) !important;
+    margin: auto;
+}
+
+.card {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+}
+.navbar {
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#clearbutton
+{
+    display: none;
+}
+
+#Fehlermelden:hover {
+    background-color: #b7b2b2!important;
+
+}
+
+#Unterstrich {
+    border-bottom: 1px solid black;
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+footer {
+    margin-top: auto;
+}

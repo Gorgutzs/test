@@ -1,0 +1,7 @@
+{"URL":"https://kpvgruen.de/seminare",
+"eventcard": ".//div[@class='xBlogItem']",
+"date":".//span[@class='datetime']",
+"time":".//span[@class='datetime']",
+"title":".//h2 | .//h3",
+"link":".//a"
+}
